@@ -32,6 +32,8 @@ const person3 = new NextLevelDeveloper();
 getSleepingHours(person3);
 
 
+
+
 class Shape {
     getArea(): number {
          return 0;
