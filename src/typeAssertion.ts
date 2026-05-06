@@ -3,7 +3,7 @@ let myValue: unknown = "Hello TypeScript";
 let StrLength = (myValue as string).length;
 console.log(StrLength);
 
-//  vabe type assertion likha jay
+//  2 vabe type assertion likha jay
 // 1. as syntax
 // 2. angle bracket syntax
 
